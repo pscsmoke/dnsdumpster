@@ -1,5 +1,5 @@
 # dnsdumpster
-oush detect test
+push detect test
 A tool to perform DNS reconnaissance on target networks. The results include a variety of information that are useful for users performing network reconnaissance.
 Some of the information return include
  * [Host subdomains](https://www.nmmapper.com/sys/tools/subdomainfinder/)
